@@ -1,1 +1,3 @@
-# Computer-Vision
+# Computer-Vision\
+HOG方向梯度直方图：进行了特征向量输出和行人检测
+
